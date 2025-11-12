@@ -1,20 +1,7 @@
-“Conhecer o impacto é o primeiro passo para mudar o mundo.”
+♻️ “Conhecer o impacto é o primeiro passo para mudar o mundo.”
 
-- Sobre o projeto
-  O EcoCalc é um aplicativo Android desenvolvido com o objetivo de promover o consumo consciente e a sustentabilidade.
-Através dele, o usuário pode calcular sua pegada de carbono com base em atividades diárias, como transporte e uso de energia elétrica, utilizando dados da API Climatiq.
-  O app também permite criar uma conta, armazenar cálculos anteriores localmente e acompanhar o histórico de emissões de CO₂.
-Assim, o usuário consegue visualizar seu impacto ambiental e buscar formas de reduzi-lo.
+  O EcoCalc é um aplicativo Android desenvolvido com o propósito de promover o consumo consciente e a sustentabilidade. Através dele, o usuário pode calcular sua pegada de carbono com base em atividades cotidianas, como o uso de transporte e de energia elétrica, utilizando dados fornecidos pela API Climatiq. Além disso, o aplicativo permite a criação de uma conta, o armazenamento local dos cálculos realizados e o acompanhamento do histórico de emissões de CO₂. Dessa forma, o usuário tem a oportunidade de visualizar o seu impacto ambiental e buscar maneiras de reduzi-lo.
 
-- Problema e solução proposta
-  O aumento da emissão de gases do efeito estufa é uma das principais causas das mudanças climáticas.
-Muitas pessoas desconhecem quanto suas ações diárias impactam o meio ambiente.
-  O EcoCalc surge como uma ferramenta educativa e prática, permitindo ao usuário mensurar e acompanhar sua pegada de carbono, incentivando hábitos mais sustentáveis e conscientes.
+  O aumento da emissão de gases do efeito estufa é uma das principais causas das mudanças climáticas, e muitas pessoas ainda desconhecem o quanto suas ações diárias afetam o meio ambiente. Nesse contexto, o EcoCalc surge como uma ferramenta educativa e prática, que possibilita mensurar e acompanhar a pegada de carbono individual, incentivando hábitos mais sustentáveis e conscientes.
 
-- Funcionalidades principais
-✅ Cadastro e login de usuário (armazenamento local com Room)
-✅ Cálculo da pegada de carbono via API Climatiq
-✅ Histórico de cálculos (RecyclerView)
-✅ Interface responsiva e acessível
-✅ Tratamento de erros e estados de carregamento
-✅ Arquitetura MVVM com Coroutines
+  Entre suas principais funcionalidades estão o cadastro e login de usuários com armazenamento local por meio do Room, o cálculo automático da pegada de carbono via API Climatiq, o histórico de cálculos exibido em uma RecyclerView, uma interface responsiva e acessível, além do tratamento de erros e estados de carregamento. O aplicativo segue a arquitetura MVVM e faz uso de Coroutines, garantindo uma estrutura moderna, organizada e eficiente.
